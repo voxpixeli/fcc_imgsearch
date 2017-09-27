@@ -1,2 +1,2 @@
-# fcc_imgsearch
-freeCodeCamp : Image Search Abstraction Layer
+# freeCodeCamp challenge
+# Image Search Abstraction Layer
